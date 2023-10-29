@@ -23,3 +23,19 @@ High -Highest price of the stock for the given month
 Low -Lowest price of the stock for the given the month
 
 Close -Price of the stock at the end of the month
+
+
+
+**Conclusion**
+
+
+We can see the minimum closing price of the stock was in the November month.
+If we do analysis on the yearly basis, minimum closing price was in 2005 Which is 13.215 and after 2018 scam year it came to 22.10 during the 2020.
+The data set is balanced no null value, missing value and duplicate value
+In Univaraite analysis all the variables were positively skewed which is a Regression problem data should be equally distributed.
+In bivariate we can see variables are having a linear relation with each other.
+We can see a huge fall in the price in the year 2018 when the fraud came to news.
+We can observe the outliers in the box plot segment.
+Data was positively skewed, and that's why we have done the log 10 transformation.
+In the correlation heat map, we can see all variables are highly correlated to each other which is a problem in linear regression.
+At last I use three models in those three models Ridge regression model shows the better value of R2 score, for this type of regression models higher the value of R2 shows, model is more efficient , used GridsearchCV in the last model .
