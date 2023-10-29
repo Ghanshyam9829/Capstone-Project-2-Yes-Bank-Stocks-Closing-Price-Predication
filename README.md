@@ -12,3 +12,14 @@ Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has
 **Data Set Explanation**
 
 You can see the data set has zero null values and zero duplicate values, the data set is having 185 rows and the 5 columns, we will try to find the prediction of the closing price by using the above data set and will check the prediction is accurate or not. So in the data set closing price will work as the dependent variable and other four columns will work as independent variable.
+
+**Variables Description**
+
+
+Date - In Given data set month and years is mentioned in date column
+
+High -Highest price of the stock for the given month
+
+Low -Lowest price of the stock for the given the month
+
+Close -Price of the stock at the end of the month
