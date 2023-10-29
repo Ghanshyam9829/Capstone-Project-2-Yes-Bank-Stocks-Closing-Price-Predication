@@ -1,2 +1,6 @@
 # Capstone-Project-2-Yes-Bank-Stocks-Closing-Price-Predication
 Capstone Project 2 Yes Bank Stocks Closing Price Predication
+
+Yes Bank Stock Closing Price Prediction is a project about "YES Bank" Share price Fluctuation , This stock was listed in indian share market during the 2005 and it is in the news after ED suspected and Fraud in the Yes Bank and according to ED MD and CEO of YES Bank was invovlevd in the fraud , This stock is in the news from the starting of 2017 , and SEBI and ED bothe the regulatory agensies are invoved in the Investigation. We have a CSV file of some prices of YES Bank Stock , in the CSV we have monthely high , monthly open , monthly close for the YES Bank Stock, and by using different models and libreries we are going to predict the closing price of the stock on the monthely basis.
+
+For the analysis first we will upload the data in the colab and we will do some data cleaning , We will add some important column and we will remove some unwanted column , we will rename some columns after that we will do data wrangling , After that we will excute some programes for getting our specific result. Here we are going to use feature engineering which will use the raw data and use it in Predctive Modeling.
